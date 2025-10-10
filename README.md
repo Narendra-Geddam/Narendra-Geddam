@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm Narendra Geddam  
 
-<!--
-**Narendra-Geddam/Narendra-Geddam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](#)  
+[![GitHub followers](https://img.shields.io/github/followers/Narendra-Geddam?label=Followers&style=social)](https://github.com/Narendra-Geddam)  
+[![Profile Views](https://komarev.com/ghpvc/?username=Narendra-Geddam&color=blueviolet&style=flat)](https://github.com/Narendra-Geddam)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+💻 Passionate about **Linux, DevOps, and Frontend Development**  
+⚡ Exploring **automation, cloud, and advanced scripting**  
+🌟 Always open to **collaboration** and **open-source contributions**  
+
+---
+
+## 🎓 Education  
+🎓 **BCA** – Sri HR Sriramulu Memorial College  
+🎓 **MCA** – Brindavan College of Engineering  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages & Scripting**  
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
+
+**DevOps Tools**  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)  
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
+![VMware](https://img.shields.io/badge/-VMware-05122A?style=flat&logo=vmware)  
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)  
+
+**Systems**  
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
+![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-05122A?style=flat&logo=gnu-bash)  
+
+---
+
+## 🚀 Projects  
+
+🔧 **Linux Automation Scripts** – process handling, cron jobs, monitoring  
+🔊 **Text-to-Speech App (Frontend)** – built UI using **React**  
+⚙️ **DevOps Practice** – Jenkins pipelines, Docker containers, Git workflows  
+
+---
+
+## 📊 GitHub Stats  
+
+![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narendra-Geddam&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narendra-Geddam&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 [LinkedIn](#)  
+- 📧 **narendrageddam7@gmail.com**   
+
+✨ *“Code, Learn, Automate, Repeat.”* 🚀  
+
+---
+
