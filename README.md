@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Narendra Geddam  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/narendra-geddam-699211213/)  
 [![GitHub followers](https://img.shields.io/github/followers/Narendra-Geddam?label=Followers&style=social)](https://github.com/Narendra-Geddam)  
 [![Profile Views](https://komarev.com/ghpvc/?username=Narendra-Geddam&color=blueviolet&style=flat)](https://github.com/Narendra-Geddam)  
 
@@ -61,7 +61,7 @@
 
 ## 📫 Connect With Me  
 
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/narendra-geddam-699211213/)  
 - 📧 **narendrageddam7@gmail.com**   
 
 ✨ *“Code, Learn, Automate, Repeat.”* 🚀  
