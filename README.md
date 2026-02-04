@@ -33,9 +33,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)  
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)  
+![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven)  
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
-![VMware](https://img.shields.io/badge/-VMware-05122A?style=flat&logo=vmware)  
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)  
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)  
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)   
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+ 
 
 **Systems**  
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
