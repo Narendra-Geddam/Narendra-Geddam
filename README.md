@@ -14,8 +14,7 @@
 ---
 
 ## 🎓 Education  
-🎓 **BCA** – Sri HR Sriramulu Memorial College  
-🎓 **MCA** – Brindavan College of Engineering  
+🎓 **BCA** – Sri HR Sriramulu Memorial College
 
 ---
 
