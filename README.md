@@ -37,9 +37,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)  
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)  
-![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)   
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
- 
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)  
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws&logoColor=FF9900&v=1)
+
 
 **Systems**  
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
