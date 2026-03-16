@@ -253,21 +253,21 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 ## 🎯 Current Focus
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00D9FF', 'primaryTextColor': '#fff', 'primaryBorderColor': '#00D9FF', 'lineColor': '#00D9FF', 'secondaryColor': '#FF6B6B', 'tertiaryColor': '#6B6BFF'}}}%%
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00D9FF', 'primaryTextColor': '#FFFFFF', 'primaryBorderColor': '#00D9FF', 'lineColor': '#00D9FF', 'secondaryColor': '#FF6B6B', 'tertiaryColor': '#A78BFA', 'fontFamily': 'Inter, sans-serif', 'fontSize': '16px'}}}%%
 mindmap
-  root((Learning Path))
-    DevOps
-      Kubernetes
-      Helm Charts
-      ArgoCD
-    Cloud
-      AWS Solutions Architect
-      Terraform Advanced
-      Cost Optimization
-    Automation
-      Ansible
-      Python Scripting
-      GitHub Actions
+  root((🎯 Learning Path))
+    🚀 DevOps
+      ☸️ Kubernetes
+      📋 Helm Charts
+      🔄 ArgoCD
+    ☁️ Cloud
+      🏗️ AWS Solutions Architect
+      📝 Terraform Advanced
+      💰 Cost Optimization
+    🤖 Automation
+      📦 Ansible
+      🐍 Python Scripting
+      ⚡ GitHub Actions
 ```
 
 <!-- Animated Divider -->
