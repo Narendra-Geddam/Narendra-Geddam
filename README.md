@@ -1,73 +1,308 @@
-# 👋 Hi, I'm Narendra Geddam  
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/narendra-geddam-699211213/)  
-[![GitHub followers](https://img.shields.io/github/followers/Narendra-Geddam?label=Followers&style=social)](https://github.com/Narendra-Geddam)  
-[![Profile Views](https://komarev.com/ghpvc/?username=Narendra-Geddam&color=blueviolet&style=flat)](https://github.com/Narendra-Geddam)  
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Narendra+Geddam;DevOps+Engineer+%F0%9F%9A%80;Linux+Enthusiast+%F0%9F%90%A7;Frontend+Developer+%E2%9A%A1;Automation+Expert+%F0%9F%A4%96" alt="Typing Animation" />
 
----
+<!-- Profile Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code%20%7C%20Deploy%20%7C%20Automate&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-## 🚀 About Me  
-💻 Passionate about **Linux, DevOps, and Frontend Development**  
-⚡ Exploring **automation, cloud, and advanced scripting**  
-🌟 Always open to **collaboration** and **open-source contributions**  
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/narendra-geddam-699211213/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Narendra-Geddam">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+  </a>
+  <a href="mailto:narendrageddam7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="https://github.com/Narendra-Geddam?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B" alt="Followers"/>
+  </a>
+</p>
 
----
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Narendra-Geddam&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-## 🎓 Education  
-🎓 **BCA** – Sri HR Sriramulu Memorial College
+<br/><br/>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack  
+</div>
 
-**Languages & Scripting**  
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+## 🚀 About Me
 
-**Frontend**  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
+<table>
+<tr>
+<td width="60%">
 
-**DevOps Tools**  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
-![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)  
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)  
-![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven)  
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)  
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)  
-![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)  
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws&logoColor=FF9900&v=1)
+```yaml
+name: Narendra Geddam
+role: DevOps Engineer & Frontend Developer
+location: India
+education: BCA - Sri HR Sriramulu Memorial College
 
+interests:
+  - Linux & System Administration
+  - Cloud Infrastructure & Automation
+  - CI/CD Pipeline Development
+  - Container Orchestration
+  - Frontend Development
 
-**Systems**  
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
-![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-05122A?style=flat&logo=gnu-bash)  
+currently_learning:
+  - Advanced Kubernetes
+  - Cloud Native Technologies
+  - Infrastructure as Code
 
----
+motto: "Code, Learn, Automate, Repeat. 🚀"
+```
 
-## 🚀 Projects  
+</td>
+<td width="40%" align="center">
 
-🔧 **Linux Automation Scripts** – process handling, cron jobs, monitoring  
-🔊 **Text-to-Speech App (Frontend)** – built UI using **React**  
-⚙️ **DevOps Practice** – Jenkins pipelines, Docker containers, Git workflows  
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding GIF"/>
 
----
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Stats  
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narendra-Geddam&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narendra-Geddam&layout=compact&theme=radical)  
+## 🛠️ Tech Stack & Tools
 
----
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,python,javascript,html,css&theme=dark&perline=5" />
+</p>
 
-## 📫 Connect With Me  
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark&perline=5" />
+</p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/narendra-geddam-699211213/)  
-- 📧 **narendrageddam7@gmail.com**   
+### ⚙️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,jenkins,terraform,aws,prometheus,grafana&theme=dark&perline=5" />
+</p>
 
-✨ *“Code, Learn, Automate, Repeat.”* 🚀  
+### 🐧 Operating Systems & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,vim,vscode,maven&theme=dark&perline=5" />
+</p>
 
----
+<!-- Tech Stack Badges Alternative -->
+<details>
+<summary>🔍 Click to see detailed badges</summary>
+<br/>
 
+**Languages & Scripting:**
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**DevOps Tools:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+**Systems:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</details>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📂 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 Linux Automation Scripts
+<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+
+> Automated system administration tasks including process handling, cron jobs, and system monitoring
+
+**Key Features:**
+- 🔄 Automated backup scripts
+- 📊 System resource monitoring
+- ⚡ Process automation & management
+- 🔔 Alert notifications
+
+[📁 View Repository](#) · [📖 Documentation](#)
+
+</td>
+<td width="50%">
+
+### 🔊 Text-to-Speech App
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+> Modern frontend application built with React for converting text to natural speech
+
+**Key Features:**
+- 🎨 Responsive UI design
+- 🔊 Multiple voice options
+- ⚡ Real-time text processing
+- 📱 Mobile-friendly interface
+
+[📁 View Repository](#) · [🌐 Live Demo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ DevOps CI/CD Pipeline
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+> Complete CI/CD pipeline setup with Jenkins, Docker, and automated deployments
+
+**Key Features:**
+- 🔄 Automated builds & tests
+- 🐳 Docker containerization
+- ☸️ Kubernetes deployment
+- 📈 Pipeline monitoring
+
+[📁 View Repository](#) · [📖 Documentation](#)
+
+</td>
+<td width="50%">
+
+### ☁️ AWS Infrastructure
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"/>
+
+> Infrastructure as Code projects using Terraform and AWS services
+
+**Key Features:**
+- 🏗️ Terraform IaC templates
+- 🌐 VPC & Networking setup
+- 🔒 Security group configurations
+- 📊 CloudWatch monitoring
+
+[📁 View Repository](#) · [📖 Documentation](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Stats Cards -->
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Narendra-Geddam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendra-Geddam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Narendra-Geddam&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="70%"/>
+
+<br/><br/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narendra-Geddam&custom_title=Narendra's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Narendra-Geddam&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎯 Current Focus
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00D9FF', 'primaryTextColor': '#fff', 'primaryBorderColor': '#00D9FF', 'lineColor': '#00D9FF', 'secondaryColor': '#FF6B6B', 'tertiaryColor': '#6B6BFF'}}}%%
+mindmap
+  root((Learning Path))
+    DevOps
+      Kubernetes
+      Helm Charts
+      ArgoCD
+    Cloud
+      AWS Solutions Architect
+      Terraform Advanced
+      Cost Optimization
+    Automation
+      Ansible
+      Python Scripting
+      GitHub Actions
+```
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/narendra-geddam-699211213/">
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:narendrageddam7@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Narendra-Geddam">
+    <img src="https://img.shields.io/badge/Follow_Me_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%2C%20Learn%2C%20Automate%2C%20Repeat.&author=Narendra%20Geddam" width="60%"/>
+
+<br/><br/>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+**⭐ Star my repositories if you find them helpful!**
+
+**💡 Open to collaboration and new opportunities!**
+
+</div>
