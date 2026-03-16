@@ -253,7 +253,7 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 ## 🎯 Current Focus
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00D9FF', 'primaryTextColor': '#FFFFFF', 'primaryBorderColor': '#00D9FF', 'lineColor': '#00D9FF', 'secondaryColor': '#FF6B6B', 'tertiaryColor': '#A78BFA', 'fontFamily': 'Inter, sans-serif', 'fontSize': '16px'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#E6F7FF', 'primaryTextColor': '#0B1117', 'primaryBorderColor': '#00A3C4', 'lineColor': '#00A3C4', 'secondaryColor': '#FFE3E3', 'tertiaryColor': '#EAE7FF', 'fontSize': '16px'}}}%%
 mindmap
   root((🎯 Learning Path))
     🚀 DevOps
