@@ -75,7 +75,7 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python,javascript&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=bash,python&theme=dark&perline=5" />
 </p>
 
 ### ⚙️ DevOps & Cloud
