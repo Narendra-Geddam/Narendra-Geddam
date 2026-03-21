@@ -148,7 +148,7 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 - ⚡ Process automation & management
 - 🔔 Alert notifications
 
-[📁 View Repository](#) · [📖 Documentation](#)
+[📁 View Repository](https://github.com/Narendra-Geddam/Automation-Scripts) · [📖 Documentation](https://github.com/Narendra-Geddam/Automation-Scripts#readme)
 
 </td>
 <td width="50%">
@@ -165,7 +165,7 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 - ⚡ Real-time text processing
 - 📱 Mobile-friendly interface
 
-[📁 View Repository](#) · [🌐 Live Demo](#)
+[📁 View Repository](https://github.com/Narendra-Geddam/Audiobook-creater) · [🌐 Live Demo](https://github.com/Narendra-Geddam/Audiobook-creater)
 
 </td>
 </tr>
@@ -184,7 +184,7 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 - ☸️ Kubernetes deployment
 - 📈 Pipeline monitoring
 
-[📁 View Repository](#) · [📖 Documentation](#)
+[📁 View Repository](https://github.com/Narendra-Geddam/jenkins-DevOps) · [📖 Documentation](https://github.com/Narendra-Geddam/jenkins-DevOps#readme)
 
 </td>
 <td width="50%">
@@ -201,7 +201,7 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 - 🔒 Security group configurations
 - 📊 CloudWatch monitoring
 
-[📁 View Repository](#) · [📖 Documentation](#)
+[📁 View Repository](https://github.com/Narendra-Geddam/eks-terraform) · [📖 Documentation](https://github.com/Narendra-Geddam/eks-terraform#readme)
 
 </td>
 </tr>
