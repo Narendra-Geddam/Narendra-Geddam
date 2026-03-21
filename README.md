@@ -85,7 +85,7 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 
 ### 🐧 Operating Systems & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vim,vscode,maven&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=linux,vim,vscode,maven,npm&theme=dark&perline=5" />
 </p>
 
 <!-- Tech Stack Badges Alternative -->
