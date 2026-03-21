@@ -9,21 +9,21 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/narendra-geddam-699211213/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Narendra-Geddam">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
   </a>
   <a href="mailto:narendrageddam7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
   <a href="https://github.com/Narendra-Geddam?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B" alt="Followers"/>
+    <img src="https://img.shields.io/badge/Followers-FF6B6B?style=flat&logo=github&logoColor=white&labelColor=FF6B6B" alt="Followers"/>
   </a>
 </p>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Narendra-Geddam&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Narendra-Geddam&style=flat&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/><br/>
 
@@ -75,12 +75,7 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python,javascript,html,css&theme=dark&perline=5" />
-</p>
-
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=bash,python,javascript&theme=dark&perline=5" />
 </p>
 
 ### ⚙️ DevOps & Cloud
@@ -99,29 +94,24 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 <br/>
 
 **Languages & Scripting:**
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **DevOps Tools:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 
 **Systems:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 </details>
 
@@ -137,8 +127,8 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 <td width="50%">
 
 ### 🔧 Linux Automation Scripts
-<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 
 > Automated system administration tasks including process handling, cron jobs, and system monitoring
 
@@ -154,10 +144,8 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 <td width="50%">
 
 ### 🔊 Text-to-Speech App
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-> Modern frontend application built with React for converting text to natural speech
+> Modern application for converting text to natural speech
 
 **Key Features:**
 - 🎨 Responsive UI design
@@ -173,8 +161,8 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 <td width="50%">
 
 ### ⚙️ DevOps CI/CD Pipeline
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 
 > Complete CI/CD pipeline setup with Jenkins, Docker, and automated deployments
 
@@ -190,8 +178,8 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 <td width="50%">
 
 ### ☁️ AWS Infrastructure
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white"/>
 
 > Infrastructure as Code projects using Terraform and AWS services
 
@@ -279,15 +267,15 @@ mindmap
 
 <p align="center">
   <a href="https://www.linkedin.com/in/narendra-geddam-699211213/">
-    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:narendrageddam7@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/Narendra-Geddam">
-    <img src="https://img.shields.io/badge/Follow_Me_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Follow_Me_on_GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
