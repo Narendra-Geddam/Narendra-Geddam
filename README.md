@@ -148,7 +148,7 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 - ⚡ Process automation & management
 - 🔔 Alert notifications
 
-[📁 View Repository](#) · [📖 Documentation](#)
+[📁 View Repository](https://github.com/djeada/Bash-Scripts) · [📖 Documentation](https://github.com/djeada/Bash-Scripts#readme)
 
 </td>
 <td width="50%">
@@ -165,7 +165,7 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 - ⚡ Real-time text processing
 - 📱 Mobile-friendly interface
 
-[📁 View Repository](#) · [🌐 Live Demo](#)
+[📁 View Repository](https://github.com/SahilAggarwal2004/react-text-to-speech) · [🌐 Live Demo](https://react-tts.vercel.app)
 
 </td>
 </tr>
@@ -184,7 +184,7 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 - ☸️ Kubernetes deployment
 - 📈 Pipeline monitoring
 
-[📁 View Repository](#) · [📖 Documentation](#)
+[📁 View Repository](https://github.com/harshartz/Jenkins-CI-CD-Pipeline-with-Docker-and-GitHub) · [📖 Documentation](https://github.com/harshartz/Jenkins-CI-CD-Pipeline-with-Docker-and-GitHub#readme)
 
 </td>
 <td width="50%">
@@ -201,7 +201,7 @@ motto: "Code, Learn, Automate, Repeat. 🚀"
 - 🔒 Security group configurations
 - 📊 CloudWatch monitoring
 
-[📁 View Repository](#) · [📖 Documentation](#)
+[📁 View Repository](https://github.com/dsaikiran01/terraform-projects) · [📖 Documentation](https://github.com/dsaikiran01/terraform-projects#readme)
 
 </td>
 </tr>
